@@ -9,7 +9,7 @@ int main() {
     cout << "Inserisci il primo numero: ";
     cin >> num1;
 
-    cout << "Inserisci il secondo : ";
+    cout << "Inserisci il secondo numero : ";
     cin >> num2;
 
     // Calcolo della somma

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\universita\\informatica\\visualStudio\\sound design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE06EE2B-7467-49A9-A414-29164FD3E62B}|sound design\\sound design.vcxproj|K:\\universita\\informatica\\visualStudio\\sound design\\sound design\\code01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE06EE2B-7467-49A9-A414-29164FD3E62B}|sound design\\sound design.vcxproj|solutionrelative:sound design\\code01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code01.cpp",
+              "DocumentMoniker": "K:\\universita\\informatica\\visualStudio\\sound design\\sound design\\code01.cpp",
+              "RelativeDocumentMoniker": "sound design\\code01.cpp",
+              "ToolTip": "K:\\universita\\informatica\\visualStudio\\sound design\\sound design\\code01.cpp",
+              "RelativeToolTip": "sound design\\code01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T11:15:13.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
